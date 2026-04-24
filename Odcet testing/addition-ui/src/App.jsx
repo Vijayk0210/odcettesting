@@ -32,7 +32,7 @@ function App() {
       <div className="card">
         <div className="card-header">
           <span className="icon">➕</span>
-          <h1>Shwetha</h1>
+          <h1>Shwethgia</h1>
           <p className="subtitle">Enter two numbers to add them together</p>
         </div>
 
