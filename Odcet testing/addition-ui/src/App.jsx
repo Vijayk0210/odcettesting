@@ -33,7 +33,7 @@ function App() {
         <div className="card-header">
           <span className="icon">➕</span>
 
-          <h1>Shreya</h1>
+          <h1>Shrey</h1>
 
           <h1>karumanchi</h1>
 
