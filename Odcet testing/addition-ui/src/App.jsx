@@ -33,7 +33,7 @@ function App() {
         <div className="card-header">
           <span className="icon">➕</span>
           <h1>Shwethgia</h1>
-          <p className="subtitle">Enter two numbers to add them together</p>
+          <p className="subtitle">Enter two numbers to add</p>
         </div>
 
         {/* Visual equation display */}
@@ -49,7 +49,7 @@ function App() {
           </div>
           <span className="eq-op">=</span>
           <div className={`eq-box result-box ${result !== null ? 'filled' : ''}`}>
-            <span className="eq-label">Result</span>
+            <span className="eq-label">Output</span>
             <span className="eq-value">{result !== null ? result : '?'}</span>
           </div>
         </div>
