@@ -32,8 +32,8 @@ function App() {
       <div className="card">
         <div className="card-header">
           <span className="icon">➕</span>
-          <h1>karumanchi</h1>
-          <p className="subtitle">Enter two numbers to add</p>
+          <h1>sravani</h1>
+          <p className="subtitle">Enter three numbers to add</p>
         </div>
 
         {/* Visual equation display */}
