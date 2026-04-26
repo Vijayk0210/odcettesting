@@ -34,9 +34,9 @@ function App() {
           <span className="icon">➕</span>
 
 
-          <h1>Shreya</h1>
+          <h1>Sravani</h1>
 
-          <h1>karumanchi</h1>
+          <h1>G</h1>
 
           <p className="subtitle">Enter two numbers to add</p>
 
