@@ -58,7 +58,7 @@ function App() {
         {/* Inputs */}
         <div className="inputs-row">
           <div className="input-group">
-            <label htmlFor="numA">First Number (A)</label>
+            <label htmlFor="numA">First Num (A)</label>
             <input
               id="numA"
               type="number"
