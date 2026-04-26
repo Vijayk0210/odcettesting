@@ -38,7 +38,7 @@ function App() {
 
           <h1>G</h1>
 
-          <p className="subtitle">Enter two numbers to add</p>
+          <p className="subtitle">Enter two numbers for adding</p>
 
           <h1>sravani</h1>
           <p className="subtitle">Enter three numbers to add</p>
