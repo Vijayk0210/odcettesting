@@ -88,7 +88,7 @@ function App() {
             onClick={handleCalculate}
             disabled={numA === '' || numB === ''}
           >
-            Calculate ✨
+            Calculate 
           </button>
           <button className="btn btn-ghost" onClick={handleReset}>
             Reset
